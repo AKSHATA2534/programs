@@ -9,6 +9,6 @@ for(var i = 0; i < len/2; i++){
     msg = "It is not a Palindrome";
   }
 }
-console.log(`${string}: ${msg}`);
+document.write(`${string}: ${msg}`);
 
 

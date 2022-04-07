@@ -14,5 +14,5 @@ else{
       var res = `${number} is  a prime number`;
    }
   }
-console.log(res)
+  document.write(res)
 }
